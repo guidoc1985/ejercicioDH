@@ -1,1 +1,2 @@
-let autos = [ford , chevrolet , fiat];
+let autos = ["ford" , "chevrolet" , "fiat"];
+
